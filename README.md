@@ -20,4 +20,4 @@ W, S Keys ---> Left player movement.
 
 '-' Key ---> Desc. ball speed.
 
-**HAVE FUN!**
+**HAVE FUN! :)**
